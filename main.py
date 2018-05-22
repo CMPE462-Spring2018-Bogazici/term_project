@@ -3,7 +3,7 @@ from skimage import io as io
 import torch
 import random
 
-loc = "D:/Downloads/English/Fnt/"
+loc = ""
 N , D_in , H , D_out = 36*1000 , 128*128 , 250 , 36
 
 # Read Data and Save
